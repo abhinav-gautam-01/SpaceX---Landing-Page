@@ -7,7 +7,7 @@ body{
 #main{
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.47),rgba(0, 0, 0, 0.634)),url(./Images/main_1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.47),rgba(0, 0, 0, 0.634)),url(main_1.jpg);
     background-blend-mode: darken;
     background-position: 0% 70%;
     background-repeat: no-repeat;
